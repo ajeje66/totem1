@@ -6,11 +6,11 @@
  },
  {
   "tipo":"video",
-  "src":"video/video1.mp4"
+  "src":"media/video.mp4"
  },
  {
   "tipo":"immagine",
-  "src":"immagini/foto2.jpg",
-  "durata":7000
+  "src":"media/2.jpg",
+  "durata":5000
  }
 ]
