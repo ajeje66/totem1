@@ -1,0 +1,16 @@
+[
+ {
+  "tipo":"immagine",
+  "src":"media/1.jpg",
+  "durata":5000
+ },
+ {
+  "tipo":"video",
+  "src":"video/video1.mp4"
+ },
+ {
+  "tipo":"immagine",
+  "src":"immagini/foto2.jpg",
+  "durata":7000
+ }
+]
