@@ -1,13 +1,8 @@
 [
     {
         "type":"image",
-        "src":"img/1.jpg",
+        "src":"img/1.png",
         "duration":6
-    },
-    {
-        "type":"image",
-        "src":"img/2.jpg",
-        "duration":8
     },
     {
         "type":"video",
