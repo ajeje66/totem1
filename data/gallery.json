@@ -1,0 +1,13 @@
+[
+    {
+        "type":"image",
+        "src":"img/menu_1.png",
+        "duration":6
+    },
+
+    {
+        "type":"image",
+        "src":"img/menu_2.png",
+        "duration":8
+    }
+]
